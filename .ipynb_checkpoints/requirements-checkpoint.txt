@@ -2,5 +2,4 @@ streamlit
 scikit-learn
 numpy
 joblib
-streamlit
 tensorflow==2.12.0
